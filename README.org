@@ -1,4 +1,24 @@
 * i2c-thumb-keyboard
 
-  Handheld tactile switch keyboard using the [[http://www.ti.com/product/TCA8418][TCA8481]].
+  Handheld tactile switch keyboard using the [[http://www.ti.com/product/TCA8418][TCA8418]].
+
+  For more info see:
+  - [[https://hackaday.io/project/162281-teensy-thumb-keyboard/log/164899-working-on-v2][Working on v2]]
+  - [[https://hackaday.io/project/162281-teensy-thumb-keyboard/log/165015-raspberry-pi-i2c-connection][Raspberry Pi i2c Connection]]
+
+** v1.0 Photo
+   [[./images/v1.0-assembled.jpg]]
+
+** BOM
+   - 60x [[https://www.digikey.com/product-detail/en/panasonic-electronic-components/EVQ-Q2B03W/P12932SCT-ND/762922][EVQ-Q2B03W Tactile Switch]] (SW1-SW60)
+   - 10x [[https://lcsc.com/product-detail/Switching-Diode_1N4148WS_C110221.html][1N4148WS Diode]] (D1-D10)
+   - 1x [[https://lcsc.com/product-detail/Interface-ICs_TI_TCA8418RTWR_TCA8418RTWR_C138713.html][TCA8418]]
+   - 2x [[https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Uniroyal-Elec-0603WAF1002T5E_C25804.html][0603 10k Resistor]] (R1, R4)
+   - 2x [[https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Uniroyal-Elec-0603WAF4701T5E_C23162.html][0603 4.7k Resistor]] (R2, R3)
+   - 2x [[https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL10B104KA8NNNC_100nF-104-10-25V_C1590.html][0603 0.1uF Capacitor]] (C1, C2)
+   - 1x [[https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL10A106MQ8NNNC_10uF-106-20-6-3V_C1691.html][0603 10uF Capacitor]] (C3)
+   - Optional:
+     - 1x [[https://www.digikey.com/product-detail/en/jst-sales-america-inc/S4B-PH-SM4-TB(LF)(SN)/455-1751-1-ND/926848][JST PH Connector Socket S4B-PH-SM4-TB(LF)(SN)]]
+     - 1x [[https://www.digikey.com/product-detail/en/jst-sales-america-inc/A04KR04KR26E152B/455-3151-ND/6194806][JST KR Jumper Cable]]
+
 
