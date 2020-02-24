@@ -1,0 +1,4 @@
+* i2c-thumb-keyboard
+
+  Handheld tactile switch keyboard using the [[http://www.ti.com/product/TCA8418][TCA8481]].
+
