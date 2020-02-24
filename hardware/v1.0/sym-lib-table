@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name radiotxt-rescue)(type Legacy)(uri ${KIPRJMOD}/radiotxt-rescue.lib)(options "")(descr ""))
+  (lib (name teensy)(type Legacy)(uri /home/chrx/Documents/kicad_components/teensy_library/teensy.lib)(options "")(descr ""))
+  (lib (name adafruit_boards)(type Legacy)(uri /home/chrx/Documents/kicad_components/anthonydigirolamo_library/adafruit_boards.lib)(options "")(descr ""))
+  (lib (name MCP23017)(type Legacy)(uri /home/chrx/kicad/internet_kicad_footprints/andybest/Kicad.pretty/MCP23017.lib)(options "")(descr ""))
+  (lib (name dk_Interface-I-O-Expanders)(type Legacy)(uri /home/chrx/kicad/internet_kicad_footprints/digikey/digikey-kicad-library/digikey-symbols/dk_Interface-I-O-Expanders.lib)(options "")(descr ""))
+  (lib (name teensy32)(type Legacy)(uri /home/chrx/Documents/kicad/radiotxt_keypad_teensy/symbols/teensy32.lib)(options "")(descr ""))
+)

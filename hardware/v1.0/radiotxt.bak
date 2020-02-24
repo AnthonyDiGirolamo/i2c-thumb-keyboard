@@ -1,0 +1,1744 @@
+EESchema Schematic File Version 4
+LIBS:radiotxt-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L radiotxt-rescue:SW_Push SW1
+U 1 1 5A91B5FA
+P 5600 2100
+F 0 "SW1" H 5650 2200 50  0000 L CNN
+F 1 "SW_Push" H 5600 2040 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 5600 2300 50  0001 C CNN
+F 3 "" H 5600 2300 50  0001 C CNN
+	1    5600 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW2
+U 1 1 5A91BAED
+P 6150 2100
+F 0 "SW2" H 6200 2200 50  0000 L CNN
+F 1 "SW_Push" H 6150 2040 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 6150 2300 50  0001 C CNN
+F 3 "" H 6150 2300 50  0001 C CNN
+	1    6150 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW3
+U 1 1 5A91BB18
+P 6700 2100
+F 0 "SW3" H 6750 2200 50  0000 L CNN
+F 1 "SW_Push" H 6700 2040 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 6700 2300 50  0001 C CNN
+F 3 "" H 6700 2300 50  0001 C CNN
+	1    6700 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW4
+U 1 1 5A91BBAB
+P 7250 2100
+F 0 "SW4" H 7300 2200 50  0000 L CNN
+F 1 "SW_Push" H 7250 2040 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 7250 2300 50  0001 C CNN
+F 3 "" H 7250 2300 50  0001 C CNN
+	1    7250 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW5
+U 1 1 5A91BC26
+P 7800 2100
+F 0 "SW5" H 7850 2200 50  0000 L CNN
+F 1 "SW_Push" H 7800 2040 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 7800 2300 50  0001 C CNN
+F 3 "" H 7800 2300 50  0001 C CNN
+	1    7800 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW6
+U 1 1 5A91BCA7
+P 8350 2100
+F 0 "SW6" H 8400 2200 50  0000 L CNN
+F 1 "SW_Push" H 8350 2040 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 8350 2300 50  0001 C CNN
+F 3 "" H 8350 2300 50  0001 C CNN
+	1    8350 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW7
+U 1 1 5A91BD68
+P 8900 2100
+F 0 "SW7" H 8950 2200 50  0000 L CNN
+F 1 "SW_Push" H 8900 2040 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 8900 2300 50  0001 C CNN
+F 3 "" H 8900 2300 50  0001 C CNN
+	1    8900 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW8
+U 1 1 5A91BDE1
+P 9450 2100
+F 0 "SW8" H 9500 2200 50  0000 L CNN
+F 1 "SW_Push" H 9450 2040 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 9450 2300 50  0001 C CNN
+F 3 "" H 9450 2300 50  0001 C CNN
+	1    9450 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW9
+U 1 1 5A91C44D
+P 10000 2100
+F 0 "SW9" H 10050 2200 50  0000 L CNN
+F 1 "SW_Push" H 10000 2040 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 10000 2300 50  0001 C CNN
+F 3 "" H 10000 2300 50  0001 C CNN
+	1    10000 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW10
+U 1 1 5A91C49E
+P 10550 2100
+F 0 "SW10" H 10600 2200 50  0000 L CNN
+F 1 "SW_Push" H 10550 2040 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 10550 2300 50  0001 C CNN
+F 3 "" H 10550 2300 50  0001 C CNN
+	1    10550 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW11
+U 1 1 5A91E250
+P 5600 2550
+F 0 "SW11" H 5650 2650 50  0000 L CNN
+F 1 "SW_Push" H 5600 2490 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 5600 2750 50  0001 C CNN
+F 3 "" H 5600 2750 50  0001 C CNN
+	1    5600 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW12
+U 1 1 5A91E25C
+P 6150 2550
+F 0 "SW12" H 6200 2650 50  0000 L CNN
+F 1 "SW_Push" H 6150 2490 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 6150 2750 50  0001 C CNN
+F 3 "" H 6150 2750 50  0001 C CNN
+	1    6150 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW13
+U 1 1 5A91E262
+P 6700 2550
+F 0 "SW13" H 6750 2650 50  0000 L CNN
+F 1 "SW_Push" H 6700 2490 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 6700 2750 50  0001 C CNN
+F 3 "" H 6700 2750 50  0001 C CNN
+	1    6700 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW14
+U 1 1 5A91E274
+P 7250 2550
+F 0 "SW14" H 7300 2650 50  0000 L CNN
+F 1 "SW_Push" H 7250 2490 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 7250 2750 50  0001 C CNN
+F 3 "" H 7250 2750 50  0001 C CNN
+	1    7250 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW15
+U 1 1 5A91E280
+P 7800 2550
+F 0 "SW15" H 7850 2650 50  0000 L CNN
+F 1 "SW_Push" H 7800 2490 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 7800 2750 50  0001 C CNN
+F 3 "" H 7800 2750 50  0001 C CNN
+	1    7800 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW16
+U 1 1 5A91E28C
+P 8350 2550
+F 0 "SW16" H 8400 2650 50  0000 L CNN
+F 1 "SW_Push" H 8350 2490 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 8350 2750 50  0001 C CNN
+F 3 "" H 8350 2750 50  0001 C CNN
+	1    8350 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW17
+U 1 1 5A91E298
+P 8900 2550
+F 0 "SW17" H 8950 2650 50  0000 L CNN
+F 1 "SW_Push" H 8900 2490 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 8900 2750 50  0001 C CNN
+F 3 "" H 8900 2750 50  0001 C CNN
+	1    8900 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW18
+U 1 1 5A91E29E
+P 9450 2550
+F 0 "SW18" H 9500 2650 50  0000 L CNN
+F 1 "SW_Push" H 9450 2490 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 9450 2750 50  0001 C CNN
+F 3 "" H 9450 2750 50  0001 C CNN
+	1    9450 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW19
+U 1 1 5A91E2A4
+P 10000 2550
+F 0 "SW19" H 10050 2650 50  0000 L CNN
+F 1 "SW_Push" H 10000 2490 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 10000 2750 50  0001 C CNN
+F 3 "" H 10000 2750 50  0001 C CNN
+	1    10000 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW20
+U 1 1 5A91E2AA
+P 10550 2550
+F 0 "SW20" H 10600 2650 50  0000 L CNN
+F 1 "SW_Push" H 10550 2490 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 10550 2750 50  0001 C CNN
+F 3 "" H 10550 2750 50  0001 C CNN
+	1    10550 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW21
+U 1 1 5A91EBE5
+P 5600 3000
+F 0 "SW21" H 5650 3100 50  0000 L CNN
+F 1 "SW_Push" H 5600 2940 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 5600 3200 50  0001 C CNN
+F 3 "" H 5600 3200 50  0001 C CNN
+	1    5600 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW22
+U 1 1 5A91EBF1
+P 6150 3000
+F 0 "SW22" H 6200 3100 50  0000 L CNN
+F 1 "SW_Push" H 6150 2940 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 6150 3200 50  0001 C CNN
+F 3 "" H 6150 3200 50  0001 C CNN
+	1    6150 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW23
+U 1 1 5A91EBF7
+P 6700 3000
+F 0 "SW23" H 6750 3100 50  0000 L CNN
+F 1 "SW_Push" H 6700 2940 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 6700 3200 50  0001 C CNN
+F 3 "" H 6700 3200 50  0001 C CNN
+	1    6700 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW24
+U 1 1 5A91EC09
+P 7250 3000
+F 0 "SW24" H 7300 3100 50  0000 L CNN
+F 1 "SW_Push" H 7250 2940 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 7250 3200 50  0001 C CNN
+F 3 "" H 7250 3200 50  0001 C CNN
+	1    7250 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW25
+U 1 1 5A91EC15
+P 7800 3000
+F 0 "SW25" H 7850 3100 50  0000 L CNN
+F 1 "SW_Push" H 7800 2940 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 7800 3200 50  0001 C CNN
+F 3 "" H 7800 3200 50  0001 C CNN
+	1    7800 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW26
+U 1 1 5A91EC21
+P 8350 3000
+F 0 "SW26" H 8400 3100 50  0000 L CNN
+F 1 "SW_Push" H 8350 2940 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 8350 3200 50  0001 C CNN
+F 3 "" H 8350 3200 50  0001 C CNN
+	1    8350 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW27
+U 1 1 5A91EC2D
+P 8900 3000
+F 0 "SW27" H 8950 3100 50  0000 L CNN
+F 1 "SW_Push" H 8900 2940 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 8900 3200 50  0001 C CNN
+F 3 "" H 8900 3200 50  0001 C CNN
+	1    8900 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW28
+U 1 1 5A91EC33
+P 9450 3000
+F 0 "SW28" H 9500 3100 50  0000 L CNN
+F 1 "SW_Push" H 9450 2940 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 9450 3200 50  0001 C CNN
+F 3 "" H 9450 3200 50  0001 C CNN
+	1    9450 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW29
+U 1 1 5A91EC39
+P 10000 3000
+F 0 "SW29" H 10050 3100 50  0000 L CNN
+F 1 "SW_Push" H 10000 2940 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 10000 3200 50  0001 C CNN
+F 3 "" H 10000 3200 50  0001 C CNN
+	1    10000 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW30
+U 1 1 5A91EC3F
+P 10550 3000
+F 0 "SW30" H 10600 3100 50  0000 L CNN
+F 1 "SW_Push" H 10550 2940 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 10550 3200 50  0001 C CNN
+F 3 "" H 10550 3200 50  0001 C CNN
+	1    10550 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW31
+U 1 1 5A91EC66
+P 5600 3450
+F 0 "SW31" H 5650 3550 50  0000 L CNN
+F 1 "SW_Push" H 5600 3390 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 5600 3650 50  0001 C CNN
+F 3 "" H 5600 3650 50  0001 C CNN
+	1    5600 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW32
+U 1 1 5A91EC72
+P 6150 3450
+F 0 "SW32" H 6200 3550 50  0000 L CNN
+F 1 "SW_Push" H 6150 3390 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 6150 3650 50  0001 C CNN
+F 3 "" H 6150 3650 50  0001 C CNN
+	1    6150 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW33
+U 1 1 5A91EC78
+P 6700 3450
+F 0 "SW33" H 6750 3550 50  0000 L CNN
+F 1 "SW_Push" H 6700 3390 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 6700 3650 50  0001 C CNN
+F 3 "" H 6700 3650 50  0001 C CNN
+	1    6700 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW34
+U 1 1 5A91EC8A
+P 7250 3450
+F 0 "SW34" H 7300 3550 50  0000 L CNN
+F 1 "SW_Push" H 7250 3390 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 7250 3650 50  0001 C CNN
+F 3 "" H 7250 3650 50  0001 C CNN
+	1    7250 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW35
+U 1 1 5A91EC96
+P 7800 3450
+F 0 "SW35" H 7850 3550 50  0000 L CNN
+F 1 "SW_Push" H 7800 3390 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 7800 3650 50  0001 C CNN
+F 3 "" H 7800 3650 50  0001 C CNN
+	1    7800 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW36
+U 1 1 5A91ECA2
+P 8350 3450
+F 0 "SW36" H 8400 3550 50  0000 L CNN
+F 1 "SW_Push" H 8350 3390 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 8350 3650 50  0001 C CNN
+F 3 "" H 8350 3650 50  0001 C CNN
+	1    8350 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW37
+U 1 1 5A91ECAE
+P 8900 3450
+F 0 "SW37" H 8950 3550 50  0000 L CNN
+F 1 "SW_Push" H 8900 3390 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 8900 3650 50  0001 C CNN
+F 3 "" H 8900 3650 50  0001 C CNN
+	1    8900 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW38
+U 1 1 5A91ECB4
+P 9450 3450
+F 0 "SW38" H 9500 3550 50  0000 L CNN
+F 1 "SW_Push" H 9450 3390 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 9450 3650 50  0001 C CNN
+F 3 "" H 9450 3650 50  0001 C CNN
+	1    9450 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW39
+U 1 1 5A91ECBA
+P 10000 3450
+F 0 "SW39" H 10050 3550 50  0000 L CNN
+F 1 "SW_Push" H 10000 3390 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 10000 3650 50  0001 C CNN
+F 3 "" H 10000 3650 50  0001 C CNN
+	1    10000 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW40
+U 1 1 5A91ECC0
+P 10550 3450
+F 0 "SW40" H 10600 3550 50  0000 L CNN
+F 1 "SW_Push" H 10550 3390 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 10550 3650 50  0001 C CNN
+F 3 "" H 10550 3650 50  0001 C CNN
+	1    10550 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW41
+U 1 1 5A91F147
+P 5600 3900
+F 0 "SW41" H 5650 4000 50  0000 L CNN
+F 1 "SW_Push" H 5600 3840 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 5600 4100 50  0001 C CNN
+F 3 "" H 5600 4100 50  0001 C CNN
+	1    5600 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW42
+U 1 1 5A91F153
+P 6150 3900
+F 0 "SW42" H 6200 4000 50  0000 L CNN
+F 1 "SW_Push" H 6150 3840 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 6150 4100 50  0001 C CNN
+F 3 "" H 6150 4100 50  0001 C CNN
+	1    6150 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW43
+U 1 1 5A91F159
+P 6700 3900
+F 0 "SW43" H 6750 4000 50  0000 L CNN
+F 1 "SW_Push" H 6700 3840 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 6700 4100 50  0001 C CNN
+F 3 "" H 6700 4100 50  0001 C CNN
+	1    6700 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW44
+U 1 1 5A91F16B
+P 7250 3900
+F 0 "SW44" H 7300 4000 50  0000 L CNN
+F 1 "SW_Push" H 7250 3840 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 7250 4100 50  0001 C CNN
+F 3 "" H 7250 4100 50  0001 C CNN
+	1    7250 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW45
+U 1 1 5A91F177
+P 7800 3900
+F 0 "SW45" H 7850 4000 50  0000 L CNN
+F 1 "SW_Push" H 7800 3840 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 7800 4100 50  0001 C CNN
+F 3 "" H 7800 4100 50  0001 C CNN
+	1    7800 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW46
+U 1 1 5A91F183
+P 8350 3900
+F 0 "SW46" H 8400 4000 50  0000 L CNN
+F 1 "SW_Push" H 8350 3840 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 8350 4100 50  0001 C CNN
+F 3 "" H 8350 4100 50  0001 C CNN
+	1    8350 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW47
+U 1 1 5A91F18F
+P 8900 3900
+F 0 "SW47" H 8950 4000 50  0000 L CNN
+F 1 "SW_Push" H 8900 3840 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 8900 4100 50  0001 C CNN
+F 3 "" H 8900 4100 50  0001 C CNN
+	1    8900 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW48
+U 1 1 5A91F195
+P 9450 3900
+F 0 "SW48" H 9500 4000 50  0000 L CNN
+F 1 "SW_Push" H 9450 3840 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 9450 4100 50  0001 C CNN
+F 3 "" H 9450 4100 50  0001 C CNN
+	1    9450 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW49
+U 1 1 5A91F19B
+P 10000 3900
+F 0 "SW49" H 10050 4000 50  0000 L CNN
+F 1 "SW_Push" H 10000 3840 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 10000 4100 50  0001 C CNN
+F 3 "" H 10000 4100 50  0001 C CNN
+	1    10000 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW50
+U 1 1 5A91F1A1
+P 10550 3900
+F 0 "SW50" H 10600 4000 50  0000 L CNN
+F 1 "SW_Push" H 10550 3840 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 10550 4100 50  0001 C CNN
+F 3 "" H 10550 4100 50  0001 C CNN
+	1    10550 3900
+	1    0    0    -1  
+$EndComp
+Text GLabel 5400 1500 1    60   Input ~ 0
+COL0
+Text GLabel 5950 1500 1    60   Input ~ 0
+COL1
+Text GLabel 6500 1500 1    60   Input ~ 0
+COL2
+Text GLabel 7050 1500 1    60   Input ~ 0
+COL3
+Text GLabel 7600 1500 1    60   Input ~ 0
+COL4
+Text GLabel 8150 1500 1    60   Input ~ 0
+COL5
+Text GLabel 8700 1500 1    60   Input ~ 0
+COL6
+Text GLabel 9250 1500 1    60   Input ~ 0
+COL7
+Text GLabel 9800 1500 1    60   Input ~ 0
+COL8
+Text GLabel 10350 1500 1    60   Input ~ 0
+COL9
+Text GLabel 5150 2300 0    60   Input ~ 0
+ROW0
+Text GLabel 5150 2750 0    60   Input ~ 0
+ROW1
+Text GLabel 5150 3200 0    60   Input ~ 0
+ROW2
+Text GLabel 5150 3650 0    60   Input ~ 0
+ROW3
+Text GLabel 5150 4100 0    60   Input ~ 0
+ROW4
+Text Notes 4800 1000 0    118  ~ 24
+Keyboard Matrix
+$Comp
+L radiotxt-rescue:Conn_01x01 J3
+U 1 1 5A94424D
+P 950 5300
+F 0 "J3" H 950 5400 50  0000 C CNN
+F 1 "Conn_01x01" H 950 5200 50  0000 C CNN
+F 2 "anthonydigirolamo:2.5MountingHole" H 950 5300 50  0001 C CNN
+F 3 "" H 950 5300 50  0001 C CNN
+	1    950  5300
+	-1   0    0    1   
+$EndComp
+$Comp
+L radiotxt-rescue:Conn_01x01 J4
+U 1 1 5A9444D8
+P 950 5550
+F 0 "J4" H 950 5650 50  0000 C CNN
+F 1 "Conn_01x01" H 950 5450 50  0000 C CNN
+F 2 "anthonydigirolamo:2.5MountingHole" H 950 5550 50  0001 C CNN
+F 3 "" H 950 5550 50  0001 C CNN
+	1    950  5550
+	-1   0    0    1   
+$EndComp
+$Comp
+L radiotxt-rescue:Conn_01x01 J1
+U 1 1 5A944642
+P 950 5800
+F 0 "J1" H 950 5900 50  0000 C CNN
+F 1 "Conn_01x01" H 950 5700 50  0000 C CNN
+F 2 "anthonydigirolamo:2.5MountingHole" H 950 5800 50  0001 C CNN
+F 3 "" H 950 5800 50  0001 C CNN
+	1    950  5800
+	-1   0    0    1   
+$EndComp
+$Comp
+L radiotxt-rescue:Conn_01x01 J2
+U 1 1 5A94479B
+P 950 6050
+F 0 "J2" H 950 6150 50  0000 C CNN
+F 1 "Conn_01x01" H 950 5950 50  0000 C CNN
+F 2 "anthonydigirolamo:2.5MountingHole" H 950 6050 50  0001 C CNN
+F 3 "" H 950 6050 50  0001 C CNN
+	1    950  6050
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 5A9449D5
+P 1150 6250
+F 0 "#PWR0101" H 1150 6000 50  0001 C CNN
+F 1 "GND" H 1150 6100 50  0000 C CNN
+F 2 "" H 1150 6250 50  0001 C CNN
+F 3 "" H 1150 6250 50  0001 C CNN
+	1    1150 6250
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW51
+U 1 1 5B47057F
+P 5600 4400
+F 0 "SW51" H 5650 4500 50  0000 L CNN
+F 1 "SW_Push" H 5600 4340 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 5600 4600 50  0001 C CNN
+F 3 "" H 5600 4600 50  0001 C CNN
+	1    5600 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW52
+U 1 1 5B47058B
+P 6150 4400
+F 0 "SW52" H 6200 4500 50  0000 L CNN
+F 1 "SW_Push" H 6150 4340 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 6150 4600 50  0001 C CNN
+F 3 "" H 6150 4600 50  0001 C CNN
+	1    6150 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW53
+U 1 1 5B470591
+P 6700 4400
+F 0 "SW53" H 6750 4500 50  0000 L CNN
+F 1 "SW_Push" H 6700 4340 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 6700 4600 50  0001 C CNN
+F 3 "" H 6700 4600 50  0001 C CNN
+	1    6700 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW54
+U 1 1 5B4705A3
+P 7250 4400
+F 0 "SW54" H 7300 4500 50  0000 L CNN
+F 1 "SW_Push" H 7250 4340 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 7250 4600 50  0001 C CNN
+F 3 "" H 7250 4600 50  0001 C CNN
+	1    7250 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW55
+U 1 1 5B4705AF
+P 7800 4400
+F 0 "SW55" H 7850 4500 50  0000 L CNN
+F 1 "SW_Push" H 7800 4340 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 7800 4600 50  0001 C CNN
+F 3 "" H 7800 4600 50  0001 C CNN
+	1    7800 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW56
+U 1 1 5B4705BB
+P 8350 4400
+F 0 "SW56" H 8400 4500 50  0000 L CNN
+F 1 "SW_Push" H 8350 4340 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 8350 4600 50  0001 C CNN
+F 3 "" H 8350 4600 50  0001 C CNN
+	1    8350 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW57
+U 1 1 5B4705C7
+P 8900 4400
+F 0 "SW57" H 8950 4500 50  0000 L CNN
+F 1 "SW_Push" H 8900 4340 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 8900 4600 50  0001 C CNN
+F 3 "" H 8900 4600 50  0001 C CNN
+	1    8900 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW58
+U 1 1 5B4705CD
+P 9450 4400
+F 0 "SW58" H 9500 4500 50  0000 L CNN
+F 1 "SW_Push" H 9450 4340 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 9450 4600 50  0001 C CNN
+F 3 "" H 9450 4600 50  0001 C CNN
+	1    9450 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW59
+U 1 1 5B4705D3
+P 10000 4400
+F 0 "SW59" H 10050 4500 50  0000 L CNN
+F 1 "SW_Push" H 10000 4340 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 10000 4600 50  0001 C CNN
+F 3 "" H 10000 4600 50  0001 C CNN
+	1    10000 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L radiotxt-rescue:SW_Push SW60
+U 1 1 5B4705D9
+P 10550 4400
+F 0 "SW60" H 10600 4500 50  0000 L CNN
+F 1 "SW_Push" H 10550 4340 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_EVQQ2" H 10550 4600 50  0001 C CNN
+F 3 "" H 10550 4600 50  0001 C CNN
+	1    10550 4400
+	1    0    0    -1  
+$EndComp
+Text GLabel 5150 4600 0    60   Input ~ 0
+ROW5
+Wire Wire Line
+	5400 1700 5400 2100
+Connection ~ 5400 3450
+Connection ~ 5400 3000
+Connection ~ 5400 2550
+Wire Wire Line
+	5950 1700 5950 2100
+Connection ~ 5950 3450
+Connection ~ 5950 3000
+Connection ~ 5950 2550
+Wire Wire Line
+	6500 1700 6500 2100
+Connection ~ 6500 3450
+Connection ~ 6500 3000
+Connection ~ 6500 2550
+Wire Wire Line
+	7050 1700 7050 2100
+Connection ~ 7050 3450
+Connection ~ 7050 3000
+Connection ~ 7050 2550
+Wire Wire Line
+	7600 1700 7600 2100
+Connection ~ 7600 3450
+Connection ~ 7600 3000
+Connection ~ 7600 2550
+Wire Wire Line
+	8150 1700 8150 2100
+Connection ~ 8150 3450
+Connection ~ 8150 3000
+Connection ~ 8150 2550
+Wire Wire Line
+	8700 1700 8700 2100
+Connection ~ 8700 3450
+Connection ~ 8700 3000
+Connection ~ 8700 2550
+Wire Wire Line
+	9250 1700 9250 2100
+Connection ~ 9250 3450
+Connection ~ 9250 3000
+Connection ~ 9250 2550
+Wire Wire Line
+	9800 1700 9800 2100
+Connection ~ 9800 3450
+Connection ~ 9800 3000
+Connection ~ 9800 2550
+Wire Wire Line
+	10350 1700 10350 2100
+Connection ~ 10350 3450
+Connection ~ 10350 3000
+Connection ~ 10350 2550
+Connection ~ 5400 2100
+Connection ~ 5950 2100
+Connection ~ 6500 2100
+Connection ~ 7050 2100
+Connection ~ 7600 2100
+Connection ~ 8150 2100
+Connection ~ 8700 2100
+Connection ~ 9250 2100
+Connection ~ 9800 2100
+Connection ~ 10350 2100
+Wire Notes Line
+	4650 700  4650 4850
+Wire Notes Line
+	4650 4850 11050 4850
+Wire Notes Line
+	11050 4850 11050 700 
+Wire Notes Line
+	11050 700  4650 700 
+Wire Wire Line
+	1150 5300 1150 5550
+Connection ~ 1150 6050
+Connection ~ 1150 5800
+Connection ~ 1150 5550
+Connection ~ 10350 3900
+Connection ~ 9800 3900
+Connection ~ 9250 3900
+Connection ~ 8700 3900
+Connection ~ 8150 3900
+Connection ~ 7600 3900
+Connection ~ 7050 3900
+Connection ~ 6500 3900
+Connection ~ 5950 3900
+Connection ~ 5400 3900
+Wire Wire Line
+	5400 3450 5400 3900
+Wire Wire Line
+	5400 3000 5400 3450
+Wire Wire Line
+	5400 2550 5400 3000
+Wire Wire Line
+	5950 3450 5950 3900
+Wire Wire Line
+	5950 3000 5950 3450
+Wire Wire Line
+	5950 2550 5950 3000
+Wire Wire Line
+	6500 3450 6500 3900
+Wire Wire Line
+	6500 3000 6500 3450
+Wire Wire Line
+	6500 2550 6500 3000
+Wire Wire Line
+	7050 3450 7050 3900
+Wire Wire Line
+	7050 3000 7050 3450
+Wire Wire Line
+	7050 2550 7050 3000
+Wire Wire Line
+	7600 3450 7600 3900
+Wire Wire Line
+	7600 3000 7600 3450
+Wire Wire Line
+	7600 2550 7600 3000
+Wire Wire Line
+	8150 3450 8150 3900
+Wire Wire Line
+	8150 3000 8150 3450
+Wire Wire Line
+	8150 2550 8150 3000
+Wire Wire Line
+	8700 3450 8700 3900
+Wire Wire Line
+	8700 3000 8700 3450
+Wire Wire Line
+	8700 2550 8700 3000
+Wire Wire Line
+	9250 3450 9250 3900
+Wire Wire Line
+	9250 3000 9250 3450
+Wire Wire Line
+	9250 2550 9250 3000
+Wire Wire Line
+	9800 3450 9800 3900
+Wire Wire Line
+	9800 3000 9800 3450
+Wire Wire Line
+	9800 2550 9800 3000
+Wire Wire Line
+	10350 3450 10350 3900
+Wire Wire Line
+	10350 3000 10350 3450
+Wire Wire Line
+	10350 2550 10350 3000
+Wire Wire Line
+	5400 2100 5400 2550
+Wire Wire Line
+	5950 2100 5950 2550
+Wire Wire Line
+	6500 2100 6500 2550
+Wire Wire Line
+	7050 2100 7050 2550
+Wire Wire Line
+	7600 2100 7600 2550
+Wire Wire Line
+	8150 2100 8150 2550
+Wire Wire Line
+	8700 2100 8700 2550
+Wire Wire Line
+	9250 2100 9250 2550
+Wire Wire Line
+	9800 2100 9800 2550
+Wire Wire Line
+	10350 2100 10350 2550
+Wire Wire Line
+	1150 6050 1150 6250
+Wire Wire Line
+	1150 5800 1150 6050
+Wire Wire Line
+	1150 5550 1150 5800
+Wire Wire Line
+	10350 3900 10350 4400
+Wire Wire Line
+	9800 3900 9800 4400
+Wire Wire Line
+	9250 3900 9250 4400
+Wire Wire Line
+	8700 3900 8700 4400
+Wire Wire Line
+	8150 3900 8150 4400
+Wire Wire Line
+	7600 3900 7600 4400
+Wire Wire Line
+	7050 3900 7050 4400
+Wire Wire Line
+	6500 3900 6500 4400
+Wire Wire Line
+	5950 3900 5950 4400
+Wire Wire Line
+	5400 3900 5400 4400
+$Comp
+L radiotxt-rescue:D_Zener_Small D10
+U 1 1 5A91C5FC
+P 10350 1600
+F 0 "D10" H 10350 1690 50  0000 C CNN
+F 1 "D_Zener_Small" H 10350 1510 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-323_HandSoldering" V 10350 1600 50  0001 C CNN
+F 3 "" V 10350 1600 50  0001 C CNN
+	1    10350 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L radiotxt-rescue:D_Zener_Small D9
+U 1 1 5A91C5A3
+P 9800 1600
+F 0 "D9" H 9800 1690 50  0000 C CNN
+F 1 "D_Zener_Small" H 9800 1510 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-323_HandSoldering" V 9800 1600 50  0001 C CNN
+F 3 "" V 9800 1600 50  0001 C CNN
+	1    9800 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L radiotxt-rescue:D_Zener_Small D8
+U 1 1 5A91C549
+P 9250 1600
+F 0 "D8" H 9250 1690 50  0000 C CNN
+F 1 "D_Zener_Small" H 9250 1510 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-323_HandSoldering" V 9250 1600 50  0001 C CNN
+F 3 "" V 9250 1600 50  0001 C CNN
+	1    9250 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L radiotxt-rescue:D_Zener_Small D7
+U 1 1 5A91C4F4
+P 8700 1600
+F 0 "D7" H 8700 1690 50  0000 C CNN
+F 1 "D_Zener_Small" H 8700 1510 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-323_HandSoldering" V 8700 1600 50  0001 C CNN
+F 3 "" V 8700 1600 50  0001 C CNN
+	1    8700 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L radiotxt-rescue:D_Zener_Small D6
+U 1 1 5A91BCF2
+P 8150 1600
+F 0 "D6" H 8150 1690 50  0000 C CNN
+F 1 "D_Zener_Small" H 8150 1510 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-323_HandSoldering" V 8150 1600 50  0001 C CNN
+F 3 "" V 8150 1600 50  0001 C CNN
+	1    8150 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L radiotxt-rescue:D_Zener_Small D5
+U 1 1 5A91BC63
+P 7600 1600
+F 0 "D5" H 7600 1690 50  0000 C CNN
+F 1 "D_Zener_Small" H 7600 1510 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-323_HandSoldering" V 7600 1600 50  0001 C CNN
+F 3 "" V 7600 1600 50  0001 C CNN
+	1    7600 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L radiotxt-rescue:D_Zener_Small D4
+U 1 1 5A91BBE2
+P 7050 1600
+F 0 "D4" H 7050 1690 50  0000 C CNN
+F 1 "D_Zener_Small" H 7050 1510 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-323_HandSoldering" V 7050 1600 50  0001 C CNN
+F 3 "" V 7050 1600 50  0001 C CNN
+	1    7050 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L radiotxt-rescue:D_Zener_Small D1
+U 1 1 5A91B709
+P 5400 1600
+F 0 "D1" H 5400 1690 50  0000 C CNN
+F 1 "D_Zener_Small" H 5400 1510 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-323_HandSoldering" V 5400 1600 50  0001 C CNN
+F 3 "" V 5400 1600 50  0001 C CNN
+	1    5400 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L radiotxt-rescue:D_Zener_Small D2
+U 1 1 5A91BB48
+P 5950 1600
+F 0 "D2" H 5950 1690 50  0000 C CNN
+F 1 "D_Zener_Small" H 5950 1510 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-323_HandSoldering" V 5950 1600 50  0001 C CNN
+F 3 "" V 5950 1600 50  0001 C CNN
+	1    5950 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L radiotxt-rescue:D_Zener_Small D3
+U 1 1 5A91BB7B
+P 6500 1600
+F 0 "D3" H 6500 1690 50  0000 C CNN
+F 1 "D_Zener_Small" H 6500 1510 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-323_HandSoldering" V 6500 1600 50  0001 C CNN
+F 3 "" V 6500 1600 50  0001 C CNN
+	1    6500 1600
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5150 4600 5800 4600
+Wire Wire Line
+	5800 4400 5800 4600
+Connection ~ 5800 4600
+Wire Wire Line
+	5800 4600 6350 4600
+Wire Wire Line
+	6350 4400 6350 4600
+Connection ~ 6350 4600
+Wire Wire Line
+	6350 4600 6900 4600
+Wire Wire Line
+	6900 4400 6900 4600
+Connection ~ 6900 4600
+Wire Wire Line
+	6900 4600 7450 4600
+Wire Wire Line
+	7450 4400 7450 4600
+Connection ~ 7450 4600
+Wire Wire Line
+	7450 4600 8000 4600
+Wire Wire Line
+	8000 4400 8000 4600
+Connection ~ 8000 4600
+Wire Wire Line
+	8000 4600 8550 4600
+Wire Wire Line
+	8550 4400 8550 4600
+Connection ~ 8550 4600
+Wire Wire Line
+	8550 4600 9100 4600
+Wire Wire Line
+	9100 4400 9100 4600
+Connection ~ 9100 4600
+Wire Wire Line
+	9100 4600 9650 4600
+Wire Wire Line
+	9650 4400 9650 4600
+Connection ~ 9650 4600
+Wire Wire Line
+	9650 4600 10200 4600
+Wire Wire Line
+	10200 4400 10200 4600
+Connection ~ 10200 4600
+Wire Wire Line
+	10200 4600 10750 4600
+Wire Wire Line
+	10750 4400 10750 4600
+Wire Wire Line
+	5150 2300 5800 2300
+Wire Wire Line
+	5800 2100 5800 2300
+Connection ~ 5800 2300
+Wire Wire Line
+	5800 2300 6350 2300
+Wire Wire Line
+	6350 2100 6350 2300
+Connection ~ 6350 2300
+Wire Wire Line
+	6350 2300 6900 2300
+Wire Wire Line
+	6900 2100 6900 2300
+Connection ~ 6900 2300
+Wire Wire Line
+	6900 2300 7450 2300
+Wire Wire Line
+	7450 2100 7450 2300
+Connection ~ 7450 2300
+Wire Wire Line
+	7450 2300 8000 2300
+Wire Wire Line
+	8000 2100 8000 2300
+Connection ~ 8000 2300
+Wire Wire Line
+	8000 2300 8550 2300
+Wire Wire Line
+	8550 2100 8550 2300
+Connection ~ 8550 2300
+Wire Wire Line
+	8550 2300 9100 2300
+Wire Wire Line
+	9100 2100 9100 2300
+Connection ~ 9100 2300
+Wire Wire Line
+	9100 2300 9650 2300
+Wire Wire Line
+	9650 2100 9650 2300
+Connection ~ 9650 2300
+Wire Wire Line
+	9650 2300 10200 2300
+Wire Wire Line
+	10200 2100 10200 2300
+Connection ~ 10200 2300
+Wire Wire Line
+	10200 2300 10750 2300
+Wire Wire Line
+	10750 2100 10750 2300
+Wire Wire Line
+	5150 2750 5800 2750
+Wire Wire Line
+	5800 2550 5800 2750
+Connection ~ 5800 2750
+Wire Wire Line
+	5800 2750 6350 2750
+Wire Wire Line
+	6350 2550 6350 2750
+Connection ~ 6350 2750
+Wire Wire Line
+	6350 2750 6900 2750
+Wire Wire Line
+	6900 2550 6900 2750
+Connection ~ 6900 2750
+Wire Wire Line
+	6900 2750 7450 2750
+Wire Wire Line
+	7450 2550 7450 2750
+Connection ~ 7450 2750
+Wire Wire Line
+	7450 2750 8000 2750
+Wire Wire Line
+	8000 2550 8000 2750
+Connection ~ 8000 2750
+Wire Wire Line
+	8000 2750 8550 2750
+Wire Wire Line
+	8550 2550 8550 2750
+Connection ~ 8550 2750
+Wire Wire Line
+	8550 2750 9100 2750
+Wire Wire Line
+	9100 2550 9100 2750
+Connection ~ 9100 2750
+Wire Wire Line
+	9100 2750 9650 2750
+Wire Wire Line
+	9650 2550 9650 2750
+Connection ~ 9650 2750
+Wire Wire Line
+	9650 2750 10200 2750
+Wire Wire Line
+	10200 2550 10200 2750
+Connection ~ 10200 2750
+Wire Wire Line
+	10200 2750 10750 2750
+Wire Wire Line
+	10750 2550 10750 2750
+Wire Wire Line
+	5150 3200 5800 3200
+Wire Wire Line
+	5800 3000 5800 3200
+Connection ~ 5800 3200
+Wire Wire Line
+	5800 3200 6350 3200
+Wire Wire Line
+	6350 3000 6350 3200
+Connection ~ 6350 3200
+Wire Wire Line
+	6350 3200 6900 3200
+Wire Wire Line
+	6900 3000 6900 3200
+Connection ~ 6900 3200
+Wire Wire Line
+	6900 3200 7450 3200
+Wire Wire Line
+	7450 3000 7450 3200
+Connection ~ 7450 3200
+Wire Wire Line
+	7450 3200 8000 3200
+Wire Wire Line
+	8000 3000 8000 3200
+Connection ~ 8000 3200
+Wire Wire Line
+	8000 3200 8550 3200
+Wire Wire Line
+	8550 3000 8550 3200
+Connection ~ 8550 3200
+Wire Wire Line
+	8550 3200 9100 3200
+Wire Wire Line
+	9100 3000 9100 3200
+Connection ~ 9100 3200
+Wire Wire Line
+	9100 3200 9650 3200
+Wire Wire Line
+	9650 3000 9650 3200
+Connection ~ 9650 3200
+Wire Wire Line
+	9650 3200 10200 3200
+Wire Wire Line
+	10200 3000 10200 3200
+Connection ~ 10200 3200
+Wire Wire Line
+	10200 3200 10750 3200
+Wire Wire Line
+	10750 3000 10750 3200
+Wire Wire Line
+	5150 3650 5800 3650
+Wire Wire Line
+	5800 3450 5800 3650
+Connection ~ 5800 3650
+Wire Wire Line
+	5800 3650 6350 3650
+Wire Wire Line
+	6350 3450 6350 3650
+Connection ~ 6350 3650
+Wire Wire Line
+	6350 3650 6900 3650
+Wire Wire Line
+	6900 3450 6900 3650
+Connection ~ 6900 3650
+Wire Wire Line
+	6900 3650 7450 3650
+Wire Wire Line
+	7450 3450 7450 3650
+Connection ~ 7450 3650
+Wire Wire Line
+	7450 3650 8000 3650
+Wire Wire Line
+	8000 3450 8000 3650
+Connection ~ 8000 3650
+Wire Wire Line
+	8000 3650 8550 3650
+Wire Wire Line
+	8550 3450 8550 3650
+Connection ~ 8550 3650
+Wire Wire Line
+	8550 3650 9100 3650
+Wire Wire Line
+	9100 3450 9100 3650
+Connection ~ 9100 3650
+Wire Wire Line
+	9100 3650 9650 3650
+Wire Wire Line
+	9650 3450 9650 3650
+Connection ~ 9650 3650
+Wire Wire Line
+	9650 3650 10200 3650
+Wire Wire Line
+	10200 3450 10200 3650
+Connection ~ 10200 3650
+Wire Wire Line
+	10200 3650 10750 3650
+Wire Wire Line
+	10750 3450 10750 3650
+Wire Wire Line
+	5150 4100 5800 4100
+Wire Wire Line
+	5800 3900 5800 4100
+Connection ~ 5800 4100
+Wire Wire Line
+	5800 4100 6350 4100
+Wire Wire Line
+	6350 3900 6350 4100
+Connection ~ 6350 4100
+Wire Wire Line
+	6350 4100 6900 4100
+Wire Wire Line
+	6900 3900 6900 4100
+Connection ~ 6900 4100
+Wire Wire Line
+	6900 4100 7450 4100
+Wire Wire Line
+	7450 3900 7450 4100
+Connection ~ 7450 4100
+Wire Wire Line
+	7450 4100 8000 4100
+Wire Wire Line
+	8000 3900 8000 4100
+Connection ~ 8000 4100
+Wire Wire Line
+	8000 4100 8550 4100
+Wire Wire Line
+	8550 3900 8550 4100
+Connection ~ 8550 4100
+Wire Wire Line
+	8550 4100 9100 4100
+Wire Wire Line
+	9100 3900 9100 4100
+Connection ~ 9100 4100
+Wire Wire Line
+	9100 4100 9650 4100
+Wire Wire Line
+	9650 3900 9650 4100
+Connection ~ 9650 4100
+Wire Wire Line
+	9650 4100 10200 4100
+Wire Wire Line
+	10200 3900 10200 4100
+Connection ~ 10200 4100
+Wire Wire Line
+	10200 4100 10750 4100
+Wire Wire Line
+	10750 3900 10750 4100
+$Comp
+L Device:C_Small C1
+U 1 1 5C69795C
+P 1100 1000
+F 0 "C1" H 1192 1046 50  0000 L CNN
+F 1 "0.1uF" H 1192 955 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 1100 1000 50  0001 C CNN
+F 3 "~" H 1100 1000 50  0001 C CNN
+	1    1100 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP_Small C3
+U 1 1 5C697E11
+P 1900 1000
+F 0 "C3" H 1988 1046 50  0000 L CNN
+F 1 "10uF" H 1988 955 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 1900 1000 50  0001 C CNN
+F 3 "~" H 1900 1000 50  0001 C CNN
+	1    1900 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R2
+U 1 1 5C6982EE
+P 3350 950
+F 0 "R2" H 3409 996 50  0000 L CNN
+F 1 "4.7k" H 3409 905 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3350 950 50  0001 C CNN
+F 3 "~" H 3350 950 50  0001 C CNN
+	1    3350 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R3
+U 1 1 5C6983D4
+P 3650 950
+F 0 "R3" H 3709 996 50  0000 L CNN
+F 1 "4.7k" H 3709 905 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3650 950 50  0001 C CNN
+F 3 "~" H 3650 950 50  0001 C CNN
+	1    3650 950 
+	1    0    0    -1  
+$EndComp
+Text GLabel 2600 1150 3    60   Input ~ 0
+RST
+$Comp
+L Device:R_Small R1
+U 1 1 5C69A2B4
+P 2600 950
+F 0 "R1" H 2659 996 50  0000 L CNN
+F 1 "10k" H 2659 905 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 2600 950 50  0001 C CNN
+F 3 "~" H 2600 950 50  0001 C CNN
+	1    2600 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C2
+U 1 1 5C69A963
+P 1500 1000
+F 0 "C2" H 1592 1046 50  0000 L CNN
+F 1 "0.1uF" H 1592 955 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 1500 1000 50  0001 C CNN
+F 3 "~" H 1500 1000 50  0001 C CNN
+	1    1500 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR0110
+U 1 1 5C69AADA
+P 850 800
+F 0 "#PWR0110" H 850 650 50  0001 C CNN
+F 1 "+3.3V" H 850 940 50  0000 C CNN
+F 2 "" H 850 800 50  0001 C CNN
+F 3 "" H 850 800 50  0001 C CNN
+	1    850  800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0111
+U 1 1 5C69AB17
+P 850 1150
+F 0 "#PWR0111" H 850 900 50  0001 C CNN
+F 1 "GND" H 850 1000 50  0000 C CNN
+F 2 "" H 850 1150 50  0001 C CNN
+F 3 "" H 850 1150 50  0001 C CNN
+	1    850  1150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	850  800  850  900 
+Wire Wire Line
+	850  900  1100 900 
+Wire Wire Line
+	1100 900  1500 900 
+Connection ~ 1100 900 
+Wire Wire Line
+	1500 900  1900 900 
+Connection ~ 1500 900 
+Wire Wire Line
+	850  1150 850  1100
+Wire Wire Line
+	850  1100 1100 1100
+Wire Wire Line
+	1100 1100 1500 1100
+Connection ~ 1100 1100
+Wire Wire Line
+	1500 1100 1900 1100
+Connection ~ 1500 1100
+$Comp
+L power:+3.3V #PWR0112
+U 1 1 5C69B497
+P 2600 750
+F 0 "#PWR0112" H 2600 600 50  0001 C CNN
+F 1 "+3.3V" H 2600 890 50  0000 C CNN
+F 2 "" H 2600 750 50  0001 C CNN
+F 3 "" H 2600 750 50  0001 C CNN
+	1    2600 750 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2600 750  2600 850 
+Text GLabel 3350 1150 3    60   Input ~ 0
+SDA
+Text GLabel 3650 1150 3    60   Input ~ 0
+SCL
+$Comp
+L power:+3.3V #PWR0113
+U 1 1 5C69C619
+P 3350 750
+F 0 "#PWR0113" H 3350 600 50  0001 C CNN
+F 1 "+3.3V" H 3350 890 50  0000 C CNN
+F 2 "" H 3350 750 50  0001 C CNN
+F 3 "" H 3350 750 50  0001 C CNN
+	1    3350 750 
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR0116
+U 1 1 5C730B65
+P 1250 1900
+F 0 "#PWR0116" H 1250 1750 50  0001 C CNN
+F 1 "+3.3V" H 1250 2040 50  0000 C CNN
+F 2 "" H 1250 1900 50  0001 C CNN
+F 3 "" H 1250 1900 50  0001 C CNN
+	1    1250 1900
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR0117
+U 1 1 5C730CE4
+P 1250 1800
+F 0 "#PWR0117" H 1250 1550 50  0001 C CNN
+F 1 "GND" H 1250 1650 50  0000 C CNN
+F 2 "" H 1250 1800 50  0001 C CNN
+F 3 "" H 1250 1800 50  0001 C CNN
+	1    1250 1800
+	-1   0    0    1   
+$EndComp
+Text GLabel 900  2000 2    60   Input ~ 0
+SDA
+Text GLabel 900  2100 2    60   Input ~ 0
+SCL
+Text GLabel 900  2200 2    60   Input ~ 0
+INT
+$Comp
+L teensy32:TCA8418 U2
+U 1 1 5C8169E5
+P 2150 4550
+F 0 "U2" H 2550 4500 50  0000 C CNN
+F 1 "TCA8418" H 2650 4600 50  0000 C CNN
+F 2 "Package_DFN_QFN:WQFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm" H 2150 4550 50  0001 C CNN
+F 3 "" H 2150 4550 50  0001 C CNN
+	1    2150 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR0102
+U 1 1 5C817555
+P 2900 4450
+F 0 "#PWR0102" H 2900 4300 50  0001 C CNN
+F 1 "+3.3V" H 2900 4590 50  0000 C CNN
+F 2 "" H 2900 4450 50  0001 C CNN
+F 3 "" H 2900 4450 50  0001 C CNN
+	1    2900 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 5C818BF5
+P 2900 6850
+F 0 "#PWR0103" H 2900 6600 50  0001 C CNN
+F 1 "GND" H 2900 6700 50  0000 C CNN
+F 2 "" H 2900 6850 50  0001 C CNN
+F 3 "" H 2900 6850 50  0001 C CNN
+	1    2900 6850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1250 1900 900  1900
+Wire Wire Line
+	900  1800 1250 1800
+Text GLabel 900  2300 2    60   Input ~ 0
+RST
+Text GLabel 3500 5350 2    60   Input ~ 0
+RST
+Text GLabel 3500 5650 2    60   Input ~ 0
+SCL
+Text GLabel 3500 5550 2    60   Input ~ 0
+SDA
+Text GLabel 2300 5450 0    60   Input ~ 0
+ROW0
+Text GLabel 2300 5350 0    60   Input ~ 0
+ROW1
+Text GLabel 2300 5250 0    60   Input ~ 0
+ROW2
+Text GLabel 2300 5150 0    60   Input ~ 0
+ROW3
+Text GLabel 2300 5050 0    60   Input ~ 0
+ROW4
+Text GLabel 2300 4950 0    60   Input ~ 0
+ROW5
+Text GLabel 2300 5650 0    60   Input ~ 0
+COL0
+Text GLabel 2300 5750 0    60   Input ~ 0
+COL1
+Text GLabel 2300 5850 0    60   Input ~ 0
+COL2
+Text GLabel 2300 5950 0    60   Input ~ 0
+COL3
+Text GLabel 2300 6050 0    60   Input ~ 0
+COL4
+Text GLabel 2300 6150 0    60   Input ~ 0
+COL5
+Text GLabel 2300 6250 0    60   Input ~ 0
+COL6
+Text GLabel 2300 6350 0    60   Input ~ 0
+COL7
+Text GLabel 2300 6450 0    60   Input ~ 0
+COL8
+Text GLabel 2300 6550 0    60   Input ~ 0
+COL9
+Text GLabel 3500 5850 2    60   Input ~ 0
+INT
+Text GLabel 2950 1150 3    60   Input ~ 0
+INT
+$Comp
+L Device:R_Small R4
+U 1 1 5C72AF50
+P 2950 950
+F 0 "R4" H 3009 996 50  0000 L CNN
+F 1 "10k" H 3009 905 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 2950 950 50  0001 C CNN
+F 3 "~" H 2950 950 50  0001 C CNN
+	1    2950 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR0104
+U 1 1 5C84A99B
+P 2950 750
+F 0 "#PWR0104" H 2950 600 50  0001 C CNN
+F 1 "+3.3V" H 2950 890 50  0000 C CNN
+F 2 "" H 2950 750 50  0001 C CNN
+F 3 "" H 2950 750 50  0001 C CNN
+	1    2950 750 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2950 1050 2950 1150
+$Comp
+L Connector:Conn_01x06_Male J5
+U 1 1 5C85BEF1
+P 700 2000
+F 0 "J5" H 806 2378 50  0000 C CNN
+F 1 "Conn_01x06_Male" H 806 2287 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 700 2000 50  0001 C CNN
+F 3 "~" H 700 2000 50  0001 C CNN
+	1    700  2000
+	1    0    0    -1  
+$EndComp
+Text GLabel 2300 4850 0    60   Input ~ 0
+ROW6
+Text GLabel 2300 4750 0    60   Input ~ 0
+ROW7
+$Comp
+L Connector:Conn_01x04_Male J6
+U 1 1 5C8A1559
+P 700 2850
+F 0 "J6" H 806 3128 50  0000 C CNN
+F 1 "Conn_01x04_Male" H 806 3037 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 700 2850 50  0001 C CNN
+F 3 "~" H 700 2850 50  0001 C CNN
+	1    700  2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR01
+U 1 1 5C8A1647
+P 1500 3000
+F 0 "#PWR01" H 1500 2750 50  0001 C CNN
+F 1 "GND" H 1500 2850 50  0000 C CNN
+F 2 "" H 1500 3000 50  0001 C CNN
+F 3 "" H 1500 3000 50  0001 C CNN
+	1    1500 3000
+	1    0    0    -1  
+$EndComp
+Text GLabel 900  2850 2    60   Input ~ 0
+ROW6
+Text GLabel 900  3050 2    60   Input ~ 0
+ROW7
+Wire Wire Line
+	900  2950 1500 2950
+Wire Wire Line
+	1500 2950 1500 3000
+Wire Wire Line
+	900  2750 1500 2750
+Wire Wire Line
+	1500 2750 1500 2950
+Connection ~ 1500 2950
+Wire Wire Line
+	2950 850  2950 750 
+Wire Wire Line
+	2600 1150 2600 1050
+Wire Wire Line
+	3350 1150 3350 1050
+Wire Wire Line
+	3650 1150 3650 1050
+$Comp
+L power:+3.3V #PWR0105
+U 1 1 5CA29EFC
+P 3650 750
+F 0 "#PWR0105" H 3650 600 50  0001 C CNN
+F 1 "+3.3V" H 3650 890 50  0000 C CNN
+F 2 "" H 3650 750 50  0001 C CNN
+F 3 "" H 3650 750 50  0001 C CNN
+	1    3650 750 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3650 750  3650 850 
+Wire Wire Line
+	3350 850  3350 750 
+$Comp
+L Connector:Conn_01x04_Male J7
+U 1 1 5D0314D5
+P 1800 1900
+F 0 "J7" H 1906 2178 50  0000 C CNN
+F 1 "Conn_01x04_Male" H 1906 2087 50  0000 C CNN
+F 2 "Connector_JST:JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal" H 1800 1900 50  0001 C CNN
+F 3 "~" H 1800 1900 50  0001 C CNN
+	1    1800 1900
+	1    0    0    -1  
+$EndComp
+Text GLabel 2000 1900 2    60   Input ~ 0
+SDA
+Text GLabel 2000 1800 2    60   Input ~ 0
+SCL
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5D0329B8
+P 2350 2000
+F 0 "#PWR?" H 2350 1850 50  0001 C CNN
+F 1 "+3.3V" H 2350 2140 50  0000 C CNN
+F 2 "" H 2350 2000 50  0001 C CNN
+F 3 "" H 2350 2000 50  0001 C CNN
+	1    2350 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5D032B17
+P 2350 2100
+F 0 "#PWR?" H 2350 1850 50  0001 C CNN
+F 1 "GND" H 2350 1950 50  0000 C CNN
+F 2 "" H 2350 2100 50  0001 C CNN
+F 3 "" H 2350 2100 50  0001 C CNN
+	1    2350 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 2100 2350 2100
+Wire Wire Line
+	2000 2000 2350 2000
+$EndSCHEMATC
