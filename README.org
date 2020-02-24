@@ -2,7 +2,7 @@
 
   Handheld tactile switch keyboard using the [[http://www.ti.com/product/TCA8418][TCA8418]].
 
-  For more info see:
+  For more info see these [[https://hackaday.io/project/162281-teensy-thumb-keyboard][hackaday.io]] posts:
   - [[https://hackaday.io/project/162281-teensy-thumb-keyboard/log/164899-working-on-v2][Working on v2]]
   - [[https://hackaday.io/project/162281-teensy-thumb-keyboard/log/165015-raspberry-pi-i2c-connection][Raspberry Pi i2c Connection]]
 
@@ -21,4 +21,7 @@
      - 1x [[https://www.digikey.com/product-detail/en/jst-sales-america-inc/S4B-PH-SM4-TB(LF)(SN)/455-1751-1-ND/926848][JST PH Connector Socket S4B-PH-SM4-TB(LF)(SN)]]
      - 1x [[https://www.digikey.com/product-detail/en/jst-sales-america-inc/A04KR04KR26E152B/455-3151-ND/6194806][JST KR Jumper Cable]]
 
+** Prior Work
+
+   [[https://github.com/AnthonyDiGirolamo/teensy-thumb-keyboard][teensy-thumb-keyboard]]
 
